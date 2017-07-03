@@ -1,0 +1,19 @@
+{
+  "name": "koa-mongo-rest-api",
+  "version": "1.0.0",
+  "description": "Javascript.ru course on NodeJS (REST API on mongo + koa project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorsubbotin/koa-mongo-rest-api.git"
+  },
+  "author": "Igor Subbotin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorsubbotin/koa-mongo-rest-api/issues"
+  },
+  "homepage": "https://github.com/igorsubbotin/koa-mongo-rest-api#readme"
+}
